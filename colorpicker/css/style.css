@@ -1,0 +1,51 @@
+
+
+
+body{
+	background-image: url("baby_polar_bear_by_pastelmm-d5st4ad.png");
+	/*background-color: lime ;
+	background-color: purple;
+	background-color: no-repeat;*/
+	background-image: linear-gradient(90deg, lime, purple);*/
+}
+
+div{
+	
+	display: left;
+	width: 100px;
+}
+article{
+	display: center;
+	position:right;
+
+}
+
+h1{
+	text-align: center;
+	margin-top: 0px;
+	color:  gold;
+	display: center;	
+}
+
+p{
+	color: none;
+}
+
+button{
+	background-image: linear-gradient(green, blue);
+	text-decoration: none;
+	/*background: radial-gradient(red, yellow);*/
+	height: 50px;
+	width: 120px;
+	border-color: yellow;
+	border-radius: 50px;
+	display: block;
+
+}
+
+
+
+
+
+
+
